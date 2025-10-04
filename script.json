@@ -1,50 +1,50 @@
 [
   {
     "news": "Pichle 24 ghante me kya hua hai, aayiye jaldi se dekhte hain badi khabrein!",
-    "keywords": ["latest news", "headlines", "breaking news"]
+    "keywords": ["news", "updates", "trending"]
   },
   {
-    "news": "Nepal mein protest LIVE: 18 log maut ke gath utar gaye jab social media ban par virodh bhadak gaya. India-Nepal border high alert par!",
-    "keywords": ["Nepal protest", "India-Nepal border", "social media ban"]
+    "news": "Prime Minister Modi ne Trump ke Gaza peace plan ki tarif ki, keh rahe hain yeh ek 'Significant step forward' hai, India ka full support hai Trump ke saath!",
+    "keywords": ["Modi", "Trump", "Gaza peace plan"]
   },
   {
-    "news": "BREAKING: Supreme Court ne Aadhaar Card ko Bihar mein SIR ke liye '12th Document' ke roop mein swikrit karne ka nirdesh diya!",
-    "keywords": ["Supreme Court", "Aadhaar Card", "Bihar elections"]
+    "news": "US mein businesses Trump ke $100,000 H-1B fee par naraaz, yeh decision desh ki economy par bhi asar daal sakta hai!",
+    "keywords": ["Trump", "H-1B", "US businesses"]
   },
   {
-    "news": "Jammu-Kashmir ke neta MLA Doda Mehraj Malik ke khilaf PSA ki ninda kar rahe hain. Political unrest badh raha hai!",
-    "keywords": ["Jammu-Kashmir", "PSA", "political leaders"]
+    "news": "Zubeen Garg ki maut par festival organiser ne Supreme Court ka darwaza khatkhataya, investigation ko transfer karne ki maang!",
+    "keywords": ["Zubeen Garg", "Supreme Court", "investigation"]
   },
   {
-    "news": "Trump ne Russian oil kharidne wale deshon par 'second phase' of sanctions ready hone ki baat kahi. Geopolitical tensions badh rahi hain!",
-    "keywords": ["Trump", "Russian oil", "sanctions"]
+    "news": "Center ka bada warning, 2 saal se chhote bacchon ke liye sardi ki dawa ka istemal na karein, do states mein hui hain halanki deaths!",
+    "keywords": ["cough syrup", "children", "India"]
   },
   {
-    "news": "Fed ke rate cut optimism ne stocks ko upar uthaya, jab investors politics ko continents tak dekhne mein busy hain!",
-    "keywords": ["Fed rate cut", "stocks", "investors"]
+    "news": "Pakistan-occupied Kashmir mein protest mein bhari maut, logon ki demands aur Pakistan sarkar ka jawab jaanein!",
+    "keywords": ["PoK", "protest", "Pakistan"]
   },
   {
-    "news": "India aur Israel agli hafte bilateral investment treaty par hastakshar karne ki taiyari mein hain. Economic ties mazboot ho rahe hain!",
-    "keywords": ["India-Israel", "bilateral treaty", "investment"]
+    "news": "Vijay rally stampede mein naya mod, Madras High Court ne SIT probe ka order diya hai, Madurai bench ne CBI probe mana kiya!",
+    "keywords": ["Vijay rally", "stampede", "Madras High Court"]
   },
   {
-    "news": "Elon Musk ne X par Peter Navarro ke 'Russian oil' comment ke fact-checking par apna silence tod diya lagta hai!",
-    "keywords": ["Elon Musk", "Russian oil comment", "fact-checking"]
+    "news": "Maharashtra tayyar hai cyclone Shakti se takkar lene ke liye, IMD ne Mumbai mein tez baarish ka alert jari kiya!",
+    "keywords": ["Cyclone Shakti", "Maharashtra", "IMD alert"]
   },
   {
-    "news": "Congress ko vote theft documentary SMSes bhejne par Trai ne manzoori nahi di. Communication hurdles samne aaye hain!",
-    "keywords": ["Congress", "vote theft documentary", "Trai"]
+    "news": "Elon Musk ka emoji reply angrezi hukumat par ki gai post par bahut rage faila raha hai, Twitter par ho rahi hai charcha!",
+    "keywords": ["Elon Musk", "emoji", "British colonial"]
   },
   {
-    "news": "India samajhdari se kadam rakh raha hai jab Trump ne apni rhetoric ko soften kar diya. Geopolitical strategy ka samay aaya hai!",
-    "keywords": ["India", "Trump rhetoric", "geopolitical strategy"]
+    "news": "Putin ka Modi ke liye badi tarif, keh rahe hain 'balanced, wise leader', saath hi Russia-India trade balance par bhi focus!",
+    "keywords": ["Putin", "Modi", "trade imbalance"]
   },
   {
-    "news": "VP poll ke douran Reddy ne democratic space ke ghatne aur republic ko defend karne ki maang ki. Political debates ghenge hote ja rahe hain!",
-    "keywords": ["VP poll", "democratic space", "Reddy"]
+    "news": "Ladakh activist Sonam Wangchuk ki wife Supreme Court pohchi unke detention ke khilaf, jaanein kya hai poora mamla!",
+    "keywords": ["Sonam Wangchuk", "Supreme Court", "detention"]
   },
   {
     "news": "Toh, aaj ke liye itna hi. Hamari team aapko har nai khabar se update rakhti rahegi. Tab tak ke liye, apna khayal rakhen aur surakshit rahen. Namaskar.",
-    "keywords": ["sign off", "stay safe", "news update"]
+    "keywords": ["news end", "update", "safety"]
   }
 ]
