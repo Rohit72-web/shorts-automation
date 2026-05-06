@@ -1,50 +1,50 @@
 [
   {
     "news": "Pichle 24 ghante me kya hua hai, aayiye jaldi se dekhte hain badi khabrein!",
-    "keywords": ["news", "updates", "trending"]
+    "keywords": ["news", "headline", "update"]
   },
   {
-    "news": "Prime Minister Modi ne Trump ke Gaza peace plan ki tarif ki, keh rahe hain yeh ek 'Significant step forward' hai, India ka full support hai Trump ke saath!",
-    "keywords": ["Modi", "Trump", "Gaza peace plan"]
+    "news": "Delhi ki hawaaj vapas bure halaat mein hain! Diwali ke subah AQI 'bahut kharab', GRAP II ke tahat naye niyam lagu.",
+    "keywords": ["Delhi", "AQI", "pollution"]
   },
   {
-    "news": "US mein businesses Trump ke $100,000 H-1B fee par naraaz, yeh decision desh ki economy par bhi asar daal sakta hai!",
-    "keywords": ["Trump", "H-1B", "US businesses"]
+    "news": "INS Vikrant par Diwali manate PM Modi! Kya hai iss powerful aircraft carrier ki 10 khaas baatein?",
+    "keywords": ["INS Vikrant", "PM Modi", "Navy"]
   },
   {
-    "news": "Zubeen Garg ki maut par festival organiser ne Supreme Court ka darwaza khatkhataya, investigation ko transfer karne ki maang!",
-    "keywords": ["Zubeen Garg", "Supreme Court", "investigation"]
+    "news": "Nizamabad mein drama! Ek constable ke katal ka aaropi hospital se bhagne ki koshish mein encounter mein maara gaya.",
+    "keywords": ["Nizamabad", "murder", "encounter"]
   },
   {
-    "news": "Center ka bada warning, 2 saal se chhote bacchon ke liye sardi ki dawa ka istemal na karein, do states mein hui hain halanki deaths!",
-    "keywords": ["cough syrup", "children", "India"]
+    "news": "Australia se kis cheez ko chhupa raha hai China? Samjhiye is anmol cheez ko jo hai sabke nazron mein.",
+    "keywords": ["Australia", "China", "resources"]
   },
   {
-    "news": "Pakistan-occupied Kashmir mein protest mein bhari maut, logon ki demands aur Pakistan sarkar ka jawab jaanein!",
-    "keywords": ["PoK", "protest", "Pakistan"]
+    "news": "Baarish ne bigada Chennai ka Diwali mood! CM MK Stalin ne tayariyon ka liya jaiza.",
+    "keywords": ["Chennai", "rain", "Diwali"]
   },
   {
-    "news": "Vijay rally stampede mein naya mod, Madras High Court ne SIT probe ka order diya hai, Madurai bench ne CBI probe mana kiya!",
-    "keywords": ["Vijay rally", "stampede", "Madras High Court"]
+    "news": "Israel ne Gaza ko madad roki! Laga ke ceasefire ko nayi jung se mila chunauti.",
+    "keywords": ["Israel", "Gaza", "ceasefire"]
   },
   {
-    "news": "Maharashtra tayyar hai cyclone Shakti se takkar lene ke liye, IMD ne Mumbai mein tez baarish ka alert jari kiya!",
-    "keywords": ["Cyclone Shakti", "Maharashtra", "IMD alert"]
+    "news": "Bihar chunav se JMM ne kheencha haath! RJD par seat-sharing baatcheet mein chaalaaki ka aarop.",
+    "keywords": ["Bihar elections", "JMM", "RJD"]
   },
   {
-    "news": "Elon Musk ka emoji reply angrezi hukumat par ki gai post par bahut rage faila raha hai, Twitter par ho rahi hai charcha!",
-    "keywords": ["Elon Musk", "emoji", "British colonial"]
+    "news": "Devdutt Pattanaik se jaaniye Ram ke Ayodhya waapasi ki kahani, Diwali ke halke ke kahaniyon ka ek hissa.",
+    "keywords": ["Devdutt Pattanaik", "Rama", "Diwali"]
   },
   {
-    "news": "Putin ka Modi ke liye badi tarif, keh rahe hain 'balanced, wise leader', saath hi Russia-India trade balance par bhi focus!",
-    "keywords": ["Putin", "Modi", "trade imbalance"]
+    "news": "Southeast BoB mein cyclonic circulation intense hone ka asar! October 23 tak depression ka roop le sakta hai.",
+    "keywords": ["cyclonic", "depression", "weather"]
   },
   {
-    "news": "Ladakh activist Sonam Wangchuk ki wife Supreme Court pohchi unke detention ke khilaf, jaanein kya hai poora mamla!",
-    "keywords": ["Sonam Wangchuk", "Supreme Court", "detention"]
+    "news": "Thiruvananthapuram mein tattoo artist ne road rage mein revolver nikaala! Police ne ki giraftar.",
+    "keywords": ["Thiruvananthapuram", "tattoo artist", "road rage"]
   },
   {
     "news": "Toh, aaj ke liye itna hi. Hamari team aapko har nai khabar se update rakhti rahegi. Tab tak ke liye, apna khayal rakhen aur surakshit rahen. Namaskar.",
-    "keywords": ["news end", "update", "safety"]
+    "keywords": ["goodbye", "stay safe", "news update"]
   }
 ]
