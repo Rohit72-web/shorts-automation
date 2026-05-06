@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = 'cfb7e04cb0274aafba953bfbc045aa1c'
+API_KEY = 'API_Key'
 URL = f"https://newsapi.org/v2/everything?q=india&language=en&sortBy=publishedAt&pageSize=10&apiKey={API_KEY}"
 
 response = requests.get(URL)
