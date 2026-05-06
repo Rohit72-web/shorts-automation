@@ -2,7 +2,7 @@ from openai import OpenAI
 from news1 import get_top_headlines  # Import the function to fetch headlines
 
 client = OpenAI(
-    api_key="sk-LqvbWtei3ELR5o9Pk63syEe5u1zmwmF70sb30NGhj75qkADs",  #  API key
+    api_key="API_key",  #  API key
     base_url="https://api.chatanywhere.com.cn/v1"  # base URL for ChatAnywhere
 )
 
